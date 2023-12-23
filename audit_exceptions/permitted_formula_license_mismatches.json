@@ -1,0 +1,8 @@
+[
+  "influxdb@1",
+  "influxdb",
+  "opencv@3",
+  "smpeg",
+  "smpeg2",
+  "synergy-core"
+]
